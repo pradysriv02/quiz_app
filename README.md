@@ -1,6 +1,6 @@
 # InterviewIQ
 
-InterviewIQ is a modern Android application built using **Kotlin** and **Jetpack Compose**, designed to provide users with an engaging quiz experience. Users can register and log in via Firebase Authentication (including Google sign-in), access questions from multiple topics, and interact with an AI-powered chatbot using **Gemini AI**.
+InterviewIQ is a modern Android application built using **Kotlin** and **Jetpack Compose** following **MVVM Architecture**, designed to provide users with an engaging quiz experience. Users can register and log in via Firebase Authentication (including Google sign-in), access questions from multiple topics, and interact with an AI-powered chatbot using **Gemini AI**.
 
 ## Features
 
@@ -16,7 +16,7 @@ InterviewIQ is a modern Android application built using **Kotlin** and **Jetpack
   
 - **Quiz Functionality**:
   - Multiple topics available for quiz questions.
-  - Dynamic loading of questions from Firebase.
+  - Dynamic loading of questions using Retrofit.
   - ![Screenshot (73)](https://github.com/user-attachments/assets/57fe9277-9efb-42d2-b0af-dfd26739ebf8)
   - ![Screenshot (74)](https://github.com/user-attachments/assets/889a9bba-26f4-422c-be05-e1082fffff25)
   - ![Screenshot (75)](https://github.com/user-attachments/assets/e27134bf-84f8-41ba-b2c0-bb1d40830c03)
