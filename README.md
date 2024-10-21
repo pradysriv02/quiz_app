@@ -19,7 +19,7 @@ InterviewIQ is a modern Android application built using **Kotlin** and **Jetpack
   - Integrated AI chatbot powered by **Gemini AI** to assist users with quiz hints, explanations, and general queries.
   
 ## Screenshots
-*Include screenshots or GIFs of your app running here.*
+
 
 ## Technologies Used
 
